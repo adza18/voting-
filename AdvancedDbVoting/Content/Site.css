@@ -1,0 +1,18 @@
+﻿footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color:red;
+}
+
+.divider-top{
+    border-top:4px solid blue !important;
+}
+
+.divider-bottom{
+    border-bottom:1px solid blue;
+}
+
+.bg--primary{
+    background-color:red !important;
+}
